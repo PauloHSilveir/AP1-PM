@@ -1,0 +1,46 @@
+{
+  "params": {
+    "Kmax": 1600,
+    "Cmax": 20,
+    "min_prot": 60,
+    "min_carb": 130,
+    "min_cal": 1000,
+    "min_fe": 8,
+    "min_vitc": 75,
+    "fat_max": 50,
+    "sod_max": 2300
+  },
+  "alimentos": [
+    {"id":1,"nome":"Arroz integral","preco":0.50,"kcal":130,"proteina":2.5,"gordura":1.0,"carboidrato":28,"calcio":10,"ferro":0.2,"vitaminaC":0,"sodio":0,"porcao":"100g"},
+    {"id":2,"nome":"Feijão carioca","preco":0.70,"kcal":120,"proteina":8.0,"gordura":0.5,"carboidrato":20,"calcio":45,"ferro":2.1,"vitaminaC":1,"sodio":1,"porcao":"100g"},
+    {"id":3,"nome":"Pão francês","preco":0.40,"kcal":150,"proteina":5.0,"gordura":2.0,"carboidrato":28,"calcio":20,"ferro":1.0,"vitaminaC":0,"sodio":0,"porcao":"50g"},
+    {"id":4,"nome":"Peito de frango","preco":2.00,"kcal":165,"proteina":31.0,"gordura":3.5,"carboidrato":0,"calcio":15,"ferro":1.0,"vitaminaC":0,"sodio":0,"porcao":"100g"},
+    {"id":5,"nome":"Ovos/Leite desnatado","preco":0.60,"kcal":70,"proteina":6.0,"gordura":5.0,"carboidrato":0,"calcio":25,"ferro":0.9,"vitaminaC":0,"sodio":0,"porcao":"100g"},
+    {"id":6,"nome":"Iogurte natural","preco":1.20,"kcal":95,"proteina":6.0,"gordura":3.0,"carboidrato":10,"calcio":150,"ferro":0.1,"vitaminaC":2,"sodio":2,"porcao":"100g"},
+    {"id":7,"nome":"Queijo Minas","preco":1.50,"kcal":110,"proteina":7.0,"gordura":7.0,"carboidrato":1,"calcio":220,"ferro":0.2,"vitaminaC":0,"sodio":0,"porcao":"50g"},
+    {"id":8,"nome":"Carne bovina","preco":2.50,"kcal":250,"proteina":26.0,"gordura":15.0,"carboidrato":0,"calcio":20,"ferro":2.5,"vitaminaC":0,"sodio":0,"porcao":"100g"},
+    {"id":9,"nome":"Peixe Tilápia","preco":2.20,"kcal":120,"proteina":23.0,"gordura":2.5,"carboidrato":0,"calcio":10,"ferro":0.5,"vitaminaC":0,"sodio":0,"porcao":"100g"},
+    {"id":10,"nome":"Sardinha enlatada","preco":1.80,"kcal":180,"proteina":20.0,"gordura":10.0,"carboidrato":0,"calcio":300,"ferro":2.0,"vitaminaC":0,"sodio":0,"porcao":"100g"},
+    {"id":11,"nome":"Batata doce","preco":0.80,"kcal":100,"proteina":2.0,"gordura":0.1,"carboidrato":23,"calcio":15,"ferro":0.5,"vitaminaC":10,"sodio":10,"porcao":"100g"},
+    {"id":12,"nome":"Macarrão","preco":0.90,"kcal":200,"proteina":7.0,"gordura":1.5,"carboidrato":42,"calcio":20,"ferro":0.7,"vitaminaC":0,"sodio":0,"porcao":"100g"},
+    {"id":13,"nome":"Tomate","preco":0.50,"kcal":25,"proteina":1.0,"gordura":0.2,"carboidrato":6,"calcio":10,"ferro":0.3,"vitaminaC":15,"sodio":15,"porcao":"100g"},
+    {"id":14,"nome":"Alface","preco":0.40,"kcal":15,"proteina":1.0,"gordura":0.1,"carboidrato":2,"calcio":35,"ferro":0.4,"vitaminaC":5,"sodio":5,"porcao":"100g"},
+    {"id":15,"nome":"Cenoura","preco":0.60,"kcal":40,"proteina":1.0,"gordura":0.2,"carboidrato":10,"calcio":25,"ferro":0.3,"vitaminaC":6,"sodio":6,"porcao":"100g"},
+    {"id":16,"nome":"Brócolis","preco":0.80,"kcal":50,"proteina":4.0,"gordura":0.5,"carboidrato":10,"calcio":47,"ferro":1.0,"vitaminaC":60,"sodio":60,"porcao":"100g"},
+    {"id":17,"nome":"Banana","preco":0.50,"kcal":90,"proteina":1.0,"gordura":0.3,"carboidrato":23,"calcio":5,"ferro":0.3,"vitaminaC":10,"sodio":10,"porcao":"100g"},
+    {"id":18,"nome":"Maçã","preco":0.70,"kcal":80,"proteina":0.5,"gordura":0.2,"carboidrato":22,"calcio":8,"ferro":0.1,"vitaminaC":8,"sodio":8,"porcao":"100g"},
+    {"id":19,"nome":"Laranja","preco":0.60,"kcal":70,"proteina":1.0,"gordura":0.1,"carboidrato":18,"calcio":40,"ferro":0.2,"vitaminaC":60,"sodio":0,"porcao":"100g"},
+    {"id":20,"nome":"Mamão","preco":0.80,"kcal":85,"proteina":1.0,"gordura":0.3,"carboidrato":20,"calcio":30,"ferro":0.3,"vitaminaC":90,"sodio":0,"porcao":"100g"},
+    {"id":21,"nome":"Abacate","preco":1.20,"kcal":160,"proteina":2.0,"gordura":15.0,"carboidrato":9,"calcio":15,"ferro":0.6,"vitaminaC":10,"sodio":10,"porcao":"100g"},
+    {"id":22,"nome":"Nozes","preco":1.50,"kcal":200,"proteina":5.0,"gordura":18.0,"carboidrato":6,"calcio":30,"ferro":1.0,"vitaminaC":2,"sodio":2,"porcao":"30g"},
+    {"id":23,"nome":"Amendoim","preco":1.00,"kcal":190,"proteina":8.0,"gordura":16.0,"carboidrato":6,"calcio":25,"ferro":1.2,"vitaminaC":0,"sodio":0,"porcao":"30g"},
+    {"id":24,"nome":"Feijão preto","preco":0.80,"kcal":110,"proteina":9.0,"gordura":0.5,"carboidrato":19,"calcio":45,"ferro":2.5,"vitaminaC":0,"sodio":0,"porcao":"100g"},
+    {"id":25,"nome":"Lentilha","preco":0.90,"kcal":115,"proteina":9.0,"gordura":0.4,"carboidrato":20,"calcio":40,"ferro":3.0,"vitaminaC":1,"sodio":1,"porcao":"100g"},
+    {"id":26,"nome":"Aveia","preco":0.70,"kcal":150,"proteina":5.0,"gordura":3.0,"carboidrato":27,"calcio":50,"ferro":1.0,"vitaminaC":0,"sodio":0,"porcao":"50g"},
+    {"id":27,"nome":"Farinha de trigo","preco":0.60,"kcal":100,"proteina":3.0,"gordura":0.5,"carboidrato":21,"calcio":15,"ferro":0.5,"vitaminaC":0,"sodio":0,"porcao":"50g"},
+    {"id":28,"nome":"Azeite de oliva","preco":1.00,"kcal":90,"proteina":0.0,"gordura":10.0,"carboidrato":0,"calcio":0,"ferro":0.0,"vitaminaC":0,"sodio":0,"porcao":"10g"},
+    {"id":29,"nome":"Margarina","preco":0.70,"kcal":80,"proteina":0.0,"gordura":9.0,"carboidrato":0,"calcio":0,"ferro":0.0,"vitaminaC":0,"sodio":80,"porcao":"10g"},
+    {"id":30,"nome":"Biscoito integral","preco":0.90,"kcal":120,"proteina":2.0,"gordura":3.0,"carboidrato":22,"calcio":20,"ferro":0.5,"vitaminaC":0,"sodio":30,"porcao":"50g"}
+  ]
+}
+
